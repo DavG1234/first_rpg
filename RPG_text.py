@@ -30,8 +30,7 @@ def adventure():
             print("you steal his food and while running away you get run over by a police car and die try again")
         else:
             print("BAD")
-    
-    
+        
 
 
  
@@ -39,4 +38,4 @@ def adventure():
 
 
 adventure()
-    
+adventure()
