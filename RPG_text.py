@@ -38,4 +38,3 @@ def adventure():
 
 
 adventure()
-adventure()
